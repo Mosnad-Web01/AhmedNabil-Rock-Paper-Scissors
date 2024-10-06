@@ -6,7 +6,7 @@ Welcome to the Rock, Paper, Scissors Game project! This simple and interactive w
 
 ## Live Demo
 
-Check out the live demo of the Rock, Paper, Scissors Game [here]().
+Check out the live demo of the Rock, Paper, Scissors Game [here](https://mosnad-web01.github.io/AhmedNabil-Rock-Paper-Scissors/).
 
 ## Features
 
@@ -36,7 +36,7 @@ Check out the live demo of the Rock, Paper, Scissors Game [here]().
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone
+   git clone https://github.com/Mosnad-Web01/AhmedNabil-Rock-Paper-Scissors.git
    ```
 
 ## Contributing
